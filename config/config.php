@@ -1,8 +1,8 @@
 <?php
-$host = "localhost";
-$user = "root"; // atau user XAMPP/Laragon kamu
-$pass = "";     // default kosong di XAMPP
-$db   = "kendaraan_db";
+$host = "sql12.freesqldatabase.com";
+$user = "sql12787567"; // atau user XAMPP/Laragon kamu
+$pass = "UDWHpZLF3T";     // default kosong di XAMPP
+$db   = "sql12787567";
 
 $conn = mysqli_connect($host, $user, $pass, $db);
 
